@@ -1,1 +1,6 @@
 
+https://drive.google.com/drive/folders/11YJUt0-i-urkXy29E6ExMPEYXKP0Er4G?usp=sharing
+
+PROJECT_tmp2.csv : 기업 및 과제 설명 생성, 기업의 관련 특허 선택 및 선택 근거 생성에 사용 (PROJECT_tmp4_qwen_addInfo_companyANDproject_exp.ipynb에 사용)
+PROJECT_tmp4_qwen_comANDpro_exp_addInfo.csv : 과제 -> 기업 추천 근거 생성에 사용 (PROJECT_tmp4_qwen_addInfo_companyANDproject_exp.ipynb의 결과, PROJECT_tmp4_qwen2.ipynb에 사용)
+PROJECT_tmp4.csv : 과제 -> 기업 추천 근거 생성에 사용 (PROJECT_tmp4_qwen2.ipynb에 사용)
