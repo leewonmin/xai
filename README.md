@@ -3,6 +3,6 @@ COMPANY : 기업 -> 과제 추천 근거 생성(설명 사용 버전)
 
 PROJECT : 과제 -> 기업 추천 근거 생성(설명 사용 버전)
 
-SYSTEM : 기업 -> 과제, 과제 -> 기업 추천 근거 생성 (설명 미사용 버전) 
+SYSTEM : company_to_project(기업 -> 과제), project_to_company(과제 -> 기업) 추천 근거 생성 (설명 미사용 버전) 
 
 EXP : 기업 및 과제 설명 생성 
